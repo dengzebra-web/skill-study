@@ -2,7 +2,7 @@
   "name": "skill-record-doc",
   "version": "1.0.0",
   "author": "dengzebra-web",
-  "description": "这是一个将会议录音文件转化为文档的一个skill，生成会议记录word文件",
+  "description": "杩欐槸涓�涓皢浼氳褰曢煶鏂囦欢杞寲涓烘枃妗ｇ殑涓�涓猻kill锛岀敓鎴愪細璁褰晈ord鏂囦欢",
   "tags": ["record", "agent-skill", "ai-coding"],
   "compatibleWith": ["claude-code", "chatgpt"],
   "repository": "https://github.com/dengzebra-web/skill-study",
