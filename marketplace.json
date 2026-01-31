@@ -9,4 +9,5 @@
   "installation": {
     "command": "git clone https://github.com/dengzebra-web/skill-study.git ~/.claude/skills/"
   }
+
 }
