@@ -1,0 +1,12 @@
+{
+  "name": "skill-record-doc",  // 替换为你的技能英文标识（小写+短横线）
+  "version": "1.0.0",             // 版本号，首次发布用1.0.0即可
+  "author": "dengzebra-web",  // 替换为你的GitHub用户名
+  "description": "这是一个将会议录音文件转化为文档的一个skill，生成会议记录word文件",  // 替换为实际描述
+  "tags": ["record", "word", "automation"],  // 替换为你的技能标签（如excel、data-analysis）
+  "compatibleWith": ["claude-code", "chatgpt"],  // 兼容的AI平台，按需调整
+  "repository": "https://github.com/dengzebra-web/skill-study",  // 替换为你的GitHub仓库地址
+  "installation": {
+    "command": "git clone https://github.com/dengzebra-web/skill-study.git ~/.claude/skills/"  // 替换为你的仓库地址
+  }
+}
